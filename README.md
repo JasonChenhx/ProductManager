@@ -4,7 +4,7 @@
 
 ## 书籍
 
-### 《人人都是产品经理》
+### [《人人都是产品经理》](https://github.com/JasonChenhx/PM_notes.github.io/tree/main/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)
 
 ## 竞品分析
 
