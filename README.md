@@ -10,7 +10,7 @@
 1.[《人人都是产品经理》](https://github.com/JasonChenhx/PM_notes.github.io/tree/main/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)
 
 ## PRD（产品需求文档）
-这里总结了一份PRD的模版 --> [PRD-模版]()
+这里总结了一份PRD的模版 --> [PRD-模版](https://github.com/JasonChenhx/ProductManager/tree/main/PRD)
 
 ## 竞品分析
 这里总结了一份竞品分析的模版，基本分析之外，还包含了从用户体验五要素的纬度分析 ——> [竞品分析-模版](https://github.com/JasonChenhx/ProductManager/tree/main/%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90)
