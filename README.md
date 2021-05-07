@@ -7,7 +7,7 @@
 
 ## 书籍
 
-1.[《人人都是产品经理》](https://github.com/JasonChenhx/PM_notes.github.io/tree/main/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)
+1.[《人人都是产品经理》](https://github.com/JasonChenhx/PM_notes.github.io/tree/main/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)   
 2.[启示录-打造用户喜爱的产品](https://github.com/JasonChenhx/ProductManager/tree/main/%E5%90%AF%E7%A4%BA%E5%BD%95)
 
 ## PRD（产品需求文档）
