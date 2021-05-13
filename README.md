@@ -22,4 +22,7 @@
 在面试中，自我介绍是很重要的，它是正常面试的开场白，会决定着你能否吸引到面试官或者说面试官对你是否有期待。这里给出了一个[自我介绍](https://github.com/JasonChenhx/ProductManager/tree/main/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D)的模版
 
 ### 2.产品思维
-无论在工作中、生活中还是面试中，都需要用产品思维的方式回答问题和思考问题。这里总结了一份[产品思维](https://github.com/JasonChenhx/ProductManager/tree/main/%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4)是如何定义的，从哪些角度来体现产品思维。
+无论在工作中、生活中还是面试中，都需要用产品思维的方式回答问题和思考问题。这里总结了一份[产品思维](https://github.com/JasonChenhx/ProductManager/tree/main/%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4)是如何定义的，从哪些角度来体现产品思维。  
+
+### 3.PM日常工作
+在面试中，面试官问你这方面的问题，是想要知道你是否有了解过这岗位的职责和日常工作，是否有深入了解过，而不是说自以为是的认为适合这岗位。这里总结了一份[PM的日常工作](https://github.com/JasonChenhx/ProductManager/tree/main/PM%E7%9A%84%E6%97%A5%E5%B8%B8%E5%B7%A5%E4%BD%9C)。（参考链接：https://www.zhihu.com/question/356390949/answer/1226155039）
