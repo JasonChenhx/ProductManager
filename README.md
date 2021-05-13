@@ -18,6 +18,8 @@
 ## 原型图
 
 ## 面试技巧
+### 1.自我介绍  
+在面试中，自我介绍是很重要的，它是正常面试的开场白，会决定着你能否吸引到面试官或者说面试官对你是否有期待。这里给出了一个[自我介绍](https://github.com/JasonChenhx/ProductManager/tree/main/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D)的模版
 
-### 1.产品思维
+### 2.产品思维
 无论在工作中、生活中还是面试中，都需要用产品思维的方式回答问题和思考问题。这里总结了一份[产品思维](https://github.com/JasonChenhx/ProductManager/tree/main/%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4)是如何定义的，从哪些角度来体现产品思维。
