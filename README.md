@@ -24,5 +24,8 @@
 ### 2.产品思维
 无论在工作中、生活中还是面试中，都需要用产品思维的方式回答问题和思考问题。这里总结了一份[产品思维](https://github.com/JasonChenhx/ProductManager/tree/main/%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4)是如何定义的，从哪些角度来体现产品思维。  
 
-### 3.PM日常工作
+### 3.0-1实现产品
+在面试中，面试官会根据你的简历来询问你的项目是如何实现的，你介绍一下。这个问题背后的目的是想要了解你在做项目时是否有从产品的维度和逻辑实现产品落地。这里总结了一份，[0-1实现产品](https://github.com/JasonChenhx/ProductManager/tree/main/0-1%E5%AE%9E%E7%8E%B0%E4%BA%A7%E5%93%81)的回答框架模版。
+
+### 4.PM日常工作
 在面试中，面试官问你这方面的问题，是想要知道你是否有了解过这岗位的职责和日常工作，是否有深入了解过，而不是说自以为是的认为适合这岗位。这里总结了一份[PM的日常工作](https://github.com/JasonChenhx/ProductManager/tree/main/PM%E7%9A%84%E6%97%A5%E5%B8%B8%E5%B7%A5%E4%BD%9C)。（参考链接：https://www.zhihu.com/question/356390949/answer/1226155039）
