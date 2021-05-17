@@ -10,6 +10,7 @@
 1.[《人人都是产品经理》](https://github.com/JasonChenhx/PM_notes.github.io/tree/main/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)   
 2.[《启示录-打造用户喜爱的产品》](https://github.com/JasonChenhx/ProductManager/tree/main/%E5%90%AF%E7%A4%BA%E5%BD%95)  
 3.[《长尾理论-为什么商业的未来是小众市场》](https://github.com/JasonChenhx/ProductManager/tree/main/%E9%95%BF%E5%B0%BE%E7%90%86%E8%AE%BA)
+4.[《网页UI与用户体验设计5要素》](https://github.com/JasonChenhx/ProductManager/tree/main/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E4%BA%94%E8%A6%81%E7%B4%A0)
 ## PRD（产品需求文档）
 这里总结了一份PRD的模版 --> [PRD-模版](https://github.com/JasonChenhx/ProductManager/tree/main/PRD)
 
