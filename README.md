@@ -32,4 +32,14 @@
 在面试中，面试官问你这方面的问题，是想要知道你是否有了解过这岗位的职责和日常工作，是否有深入了解过，而不是说自以为是的认为适合这岗位。这里总结了一份[PM的日常工作](https://github.com/JasonChenhx/ProductManager/tree/main/PM%E7%9A%84%E6%97%A5%E5%B8%B8%E5%B7%A5%E4%BD%9C)。（参考链接：https://www.zhihu.com/question/356390949/answer/1226155039）   
 
 ### 5.为什么要当产品经理
-在面试中，面试官会考虑更长远，会考虑你的稳定性，长远的长期规划，是否适合PM岗位。很多时候，会问你选择这个岗位的原因是什么。这类问题就是问你，为什么要当产品经理。可以从三个方面来回答，已总结为一份[模版](https://github.com/JasonChenhx/ProductManager/tree/main/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9%E5%BD%93%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)。
+在面试中，面试官会考虑更长远，会考虑你的稳定性，长远的长期规划，是否适合PM岗位。很多时候，会问你选择这个岗位的原因是什么。这类问题就是问你，为什么要当产品经理。可以从三个方面来回答，已总结为一份[模版](https://github.com/JasonChenhx/ProductManager/tree/main/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9%E5%BD%93%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)。  
+
+### 6.[面试常见问题](https://github.com/JasonChenhx/ProductManager/blob/main/%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)     
+
+### 7.[商业模式](https://github.com/JasonChenhx/ProductManager/blob/main/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F.md)   
+
+### 8.[好产品的定义是什么](https://github.com/JasonChenhx/ProductManager/blob/main/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A5%BD%E4%BA%A7%E5%93%81/%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%A7%E5%93%81%E6%89%8D%E7%AE%97%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E4%BA%A7%E5%93%81.md)   
+
+### 9.[产品经理的分类](https://github.com/JasonChenhx/ProductManager/blob/main/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%88%86%E7%B1%BB/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E5%88%86%E7%B1%BB.md)   
+
+### 10.[产品经理的基本素养](https://github.com/JasonChenhx/ProductManager/blob/main/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%9F%BA%E6%9C%AC%E7%B4%A0%E5%85%BB/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E9%9C%80%E8%A6%81%E5%85%B7%E5%A4%87%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%B4%A0%E8%B4%A8.md)
